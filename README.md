@@ -69,8 +69,7 @@ credentials:
     jsmith:
       email: jsmith@gmail.com
       failed_login_attempts: 0 # Will be managed automatically
-      first_name: John
-      last_name: Smith
+      name: John Smith
       logged_in: False # Will be managed automatically
       password: abc # Will be hashed automatically
       roles: # Optional
